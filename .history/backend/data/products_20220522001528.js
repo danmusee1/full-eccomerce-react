@@ -1,3 +1,5 @@
+import { Seeder } from 'mongoose-data-seed';
+import { User } from '../server/models';
 
 const products = [
   {
